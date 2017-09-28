@@ -212,4 +212,4 @@ elif pilihan == 2:
 	print(jadi2)
 
 else:
-	print('as')
+	print('pilihan yang anda masukan belum benar.')
