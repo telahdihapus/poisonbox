@@ -17,10 +17,10 @@
             |          |                     |
             |          |                     |
             |          |                     |
-            |          |    POSION   v 1.0   |   
+            |          |    POSION           |   
             |          |       BOX           |
-     _______|          |                     |_by__TELAHDIHAPUS________
-            `-.        |                  _.-'
+     _______|          |                     |_powered_by_RackSpira________
+            `-.        |                  _.-'____created_by_TelahDihapus__
                `-.     |           __..--'
                   `-.  |      __.-'
                      `-|__.--'
