@@ -17,7 +17,7 @@
             |          |                     |
             |          |                     |
             |          |                     |
-            |          |    POSION           |   
+            |          |    POISON           |   
             |          |       BOX           |
      _______|          |                     |_powered_by_RackSpira________
             `-.        |                  _.-'____created_by_TelahDihapus__
